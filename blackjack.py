@@ -1,5 +1,5 @@
 import random
-
+#Blackjack (formerly Black Jack and Vingt-Un) is a casino banking game.[1]: 342  The most widely played casino banking game in the world, it uses decks of 52 cards and descends from a global family of casino banking games known as Twenty-One
 
 def deal_cards():
     cards=[11,2,3,4,5,6,7,8,9,10,10,10,10]
